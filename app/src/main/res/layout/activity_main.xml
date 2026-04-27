@@ -9,7 +9,8 @@
         android:id="@+id/et_stuid"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="学号"/>
+        android:hint="学号"
+        android:layout_marginTop="30dp"/>
 
     <EditText
         android:id="@+id/et_name"
